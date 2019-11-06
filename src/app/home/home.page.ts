@@ -12,11 +12,11 @@ export class HomePage {
 
   q1 = [
     { value: 'Buy Milk', color: 'primary' },
-    { value: 'Write new Post', color: 'primary' }
+    { value: 'Practice Coding', color: 'primary' }
   ];
   q2 = [
-    { value: 'Schedule newsletter', color: 'secondary' },
-    { value: 'Find new Ionic Academy topics', color: 'secondary' }
+    { value: 'Read Newspaper', color: 'secondary' },
+    { value: 'Go to Gym', color: 'secondary' }
   ];
   q3 = [
     { value: 'Improve page performance', color: 'tertiary' },
@@ -74,4 +74,3 @@ export class HomePage {
   }
  
 }
-
